@@ -21,7 +21,7 @@ public class Amazon {
 		link = "https://www.amazon.in/";
 		driver.get(link);
 		driver.manage().window().maximize();
-		Books = "book";
+		
 
 	}
 
